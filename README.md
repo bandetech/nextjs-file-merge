@@ -1,4 +1,4 @@
-# My Next.js File Merger
+# Nextjs File Merger
 
 This project is a React Next.js application that allows users to upload multiple files, merge them into a single file, and download the merged file. The application provides a user-friendly interface for file uploads and displays progress and error messages throughout the process.
 
@@ -14,7 +14,7 @@ This project is a React Next.js application that allows users to upload multiple
 ## Project Structure
 
 ```
-my-nextjs-app
+extjs-file-merge
 ├── public
 ├── src
 │   ├── components
@@ -43,7 +43,7 @@ my-nextjs-app
 1. Clone the repository:
    ```
    git clone <repository-url>
-   cd my-nextjs-app
+   cd nextjs-file-merge
    ```
 
 2. Install dependencies:
