@@ -12,7 +12,8 @@
     "my-nextjs-app": "file:",
     "next": "latest",
     "react": "latest",
-    "react-dom": "latest"
+    "react-dom": "latest",
+    "react-dropzone": "^14.3.5"
   },
   "devDependencies": {
     "@types/axios": "^0.9.36",
